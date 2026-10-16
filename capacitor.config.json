@@ -1,0 +1,8 @@
+{
+  "appId": "org.kyoto.culturehub",
+  "appName": "Kyoto Culture Hub",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
